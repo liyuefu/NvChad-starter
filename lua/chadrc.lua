@@ -12,5 +12,6 @@ M.ui = {
 	-- 	["@comment"] = { italic = true },
 	-- },
 }
-
+--added by liyuefu. for clangd, python, bash shell LSP
+M.plugins = "plugins"
 return M
